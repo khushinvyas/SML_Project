@@ -3,7 +3,7 @@ joblib
 scikit-image
 tensorflow
 scikit-learn
-csv
+python-csv
 PIL
 matplotlib
 pandas
