@@ -7,5 +7,5 @@ scikit-learn
 pillow
 matplotlib
 pandas
-os-sys
+
 numpy
