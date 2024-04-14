@@ -3,3 +3,9 @@ joblib
 scikit-image
 tensorflow
 scikit-learn
+csv
+PIL
+matplotlib
+pandas
+os
+numpy
