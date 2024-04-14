@@ -4,7 +4,6 @@ joblib
 scikit-image
 tensorflow
 scikit-learn
-python-csv
 pillow
 matplotlib
 pandas
