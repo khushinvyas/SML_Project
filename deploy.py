@@ -45,7 +45,7 @@ def get_coordinates(file_paths, target_uuid, target_slice):
     return None, None
 
 # Load the SVM model
-svm_model_path = 'svm_model.pkl'
+svm_model_path = 'svm_model2.pkl'
 svm_model = None
 if os.path.exists(svm_model_path):
     svm_model = joblib.load(svm_model_path)
